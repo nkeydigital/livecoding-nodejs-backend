@@ -1,0 +1,24 @@
+{
+  "name": "live-coding-node-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diorgeneseugenio/live-coding-node-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diorgeneseugenio/live-coding-node-backend/issues"
+  },
+  "homepage": "https://github.com/diorgeneseugenio/live-coding-node-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
